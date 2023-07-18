@@ -2,7 +2,7 @@
 This project is the implementation of paper: <br />
 *EvoScenario: Integrating Road Structures into Critical Scenario Generation for Autonomous Driving System Testing* <br />
 
-**Note:** This project is originally evaluated on the ADS and simulator provided by our indutry partner. The implementation on other AD stacks will be available soon.
+**Note:** This project is originally evaluated on the ADS and simulator provided by our industry partner. The implementation on other AD stacks will be available soon.
 
 
 ## Dependencies
